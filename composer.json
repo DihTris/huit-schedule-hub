@@ -1,0 +1,7 @@
+{
+    "name": "huit/schedule-hub",
+    "require": {
+        "vlucas/phpdotenv": "^5.8",
+        "fakerphp/faker": "^1.24"
+    }
+}
