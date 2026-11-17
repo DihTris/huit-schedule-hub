@@ -33,6 +33,9 @@
             <a class="nav-link text-white" href="teachers.php">
                 Giảng viên
             </a>
+            <a class="nav-link text-white" href="schedules.php">
+                 Lịch giảng dạy
+            </a>
         </div>
 
     </div>
